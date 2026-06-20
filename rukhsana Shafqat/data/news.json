@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Free Medical Camp Serves 320 Patients in Multan",
+    "date": "15 May 2026",
+    "category": "Healthcare",
+    "excerpt": "Our two-day mobile medical camp in District Multan provided free consultations, medicines and screenings to 320 women and children from under-served communities.",
+    "image": "images/program-health.jpg"
+  },
+  {
+    "title": "100 New Scholarships Awarded for the 2026 Academic Year",
+    "date": "02 Apr 2026",
+    "category": "Education",
+    "excerpt": "Thanks to our generous donors, RSMC awarded 100 full-tuition scholarships to deserving girls across rural Punjab — covering books, uniforms and exam fees.",
+    "image": "images/program-education.jpg"
+  },
+  {
+    "title": "Ramadan Ration Drive Reaches 1,200 Families",
+    "date": "18 Mar 2026",
+    "category": "Food Relief",
+    "excerpt": "With the help of 75 volunteers, we distributed monthly ration packs containing flour, rice, lentils, oil and dates to 1,200 families during the holy month of Ramadan.",
+    "image": "images/program-food.jpg"
+  },
+  {
+    "title": "Sewing Centre Graduates 40 Women in Bahawalpur",
+    "date": "20 Feb 2026",
+    "category": "Women Empowerment",
+    "excerpt": "Forty women completed our six-month tailoring and entrepreneurship program. Each graduate received a sewing machine and seed funding to launch a home-based business.",
+    "image": "images/program-women.jpg"
+  },
+  {
+    "title": "Clean Water Hand-Pump Installed in Cholistan Village",
+    "date": "11 Jan 2026",
+    "category": "Community",
+    "excerpt": "A new solar-powered hand-pump now serves over 400 residents of Ghulam Rasool Village — ending a two-kilometre daily walk for clean drinking water.",
+    "image": "images/hero.jpg"
+  },
+  {
+    "title": "Annual Impact Report 2025 Now Available",
+    "date": "05 Jan 2026",
+    "category": "Reports",
+    "excerpt": "Read about every life touched, every rupee spent, and every milestone reached in our 2025 Annual Impact Report — published with full financial transparency.",
+    "image": "images/program-education.jpg"
+  }
+]
